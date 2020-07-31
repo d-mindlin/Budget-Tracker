@@ -24,7 +24,7 @@
     "jpeg-js": "^0.4.1",
     "minimist": "^1.2.5",
     "mlab": "^1.0.30-beta",
-    "mongoose": "^5.9.26",
+    "mongoose": "^5.9.27",
     "morgan": "^1.10.0",
     "node": "^14.5.0",
     "url-regex": "^5.0.0"
